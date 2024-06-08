@@ -30,5 +30,10 @@ body {
 .ant-select-selector:hover,
 .ant-select-selector:focus-within{
   border-color: #553E97 !important;
-
+}
+.ant-select-selector{
+  height: 40px !important;
+}
+.ant-select-arrow {
+  height: 20px !important;
 }
